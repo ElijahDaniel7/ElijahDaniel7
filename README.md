@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 		current_work = 'Digital Craftsman'
 		title = 'Information Officer - East and Southeast Europe, Middle East and RU/CIS'
 		hobbies = [
+				'Data Science',
 				'Computer Science',
-				'Enterprise Architecture',
-				'Service Management'
-				'Technical Solution Design'
+				'Technical Architecture Design'
+				'Graphic Design'
 			]
 	
 	def getCity():
