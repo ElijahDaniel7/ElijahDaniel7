@@ -24,14 +24,11 @@
 
 
 ## Associate Level (Languages, Frameworks, Tools)
-<img src = 'https://github.com/ElijahGulab/ElijahGulab-Blob/blob/fc0f84a3a2c18add71c4942d3128dfbcff8be66f/azure-icon.png' width='30'/>
-<img src = 'https://github.com/ElijahGulab/ElijahGulab-Blob/blob/fc0f84a3a2c18add71c4942d3128dfbcff8be66f/homebrew-icon.png' width='30'/>
-<img src = 'https://github.com/ElijahGulab/ElijahGulab-Blob/blob/215655ef2cad702f2a7912747c101dac906d7b06/java-icon.png' width='30'/>
+<img src = 'https://github.com/ElijahGulab/ElijahGulab-Blob/blob/fc0f84a3a2c18add71c4942d3128dfbcff8be66f/azure-icon.png' width='30'/> <img src = 'https://github.com/ElijahGulab/ElijahGulab-Blob/blob/fc0f84a3a2c18add71c4942d3128dfbcff8be66f/homebrew-icon.png' width='30'/> <img src = 'https://github.com/ElijahGulab/ElijahGulab-Blob/blob/215655ef2cad702f2a7912747c101dac906d7b06/java-icon.png' width='30'/>
  
  
 ## Professional Level (Languages, Frameworks, Tools)
-<img src = 'https://github.com/ElijahGulab/ElijahGulab-Blob/blob/fc0f84a3a2c18add71c4942d3128dfbcff8be66f/windows-icon.png' width='30'/>
-<img src = 'https://github.com/ElijahGulab/ElijahGulab-Blob/blob/215655ef2cad702f2a7912747c101dac906d7b06/cli-icon.png' width='30'/>
+<img src = 'https://github.com/ElijahGulab/ElijahGulab-Blob/blob/fc0f84a3a2c18add71c4942d3128dfbcff8be66f/windows-icon.png' width='30'/> <img src = 'https://github.com/ElijahGulab/ElijahGulab-Blob/blob/215655ef2cad702f2a7912747c101dac906d7b06/cli-icon.png' width='30'/>
  
  ## Expert Level (Languages, Frameworks & Tools)
  
