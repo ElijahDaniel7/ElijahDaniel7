@@ -22,8 +22,8 @@
 	
  ```
  ## Subject Matter Expert
-<img src = 'https://github.com/ElijahGulab/ElijahGulab-Blob/blob/fc0f84a3a2c18add71c4942d3128dfbcff8be66f/azure-icon.png' width='30'/>
-<img src = 'https://github.com/ElijahGulab/ElijahGulab-Blob/blob/fc0f84a3a2c18add71c4942d3128dfbcff8be66f/homebrew-icon.png' width='30'/>
+<img src = 'https://github.com/ElijahGulab/ElijahGulab-Blob/blob/fc0f84a3a2c18add71c4942d3128dfbcff8be66f/azure-icon.png' width='30'/>,
+ 'https://github.com/ElijahGulab/ElijahGulab-Blob/blob/fc0f84a3a2c18add71c4942d3128dfbcff8be66f/homebrew-icon.png' width='30'/>,
 <img src = 'https://github.com/ElijahGulab/ElijahGulab-Blob/blob/fc0f84a3a2c18add71c4942d3128dfbcff8be66f/raspberrypi-icon.png' width='30'/>
 <img src = 'https://github.com/ElijahGulab/ElijahGulab-Blob/blob/fc0f84a3a2c18add71c4942d3128dfbcff8be66f/windows-icon.png' width='30'/>
 
