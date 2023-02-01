@@ -1,8 +1,8 @@
  ## Who am I?
  ```python
  class WhoAmI:
- 	User_ID = 'Elijah'
-		current_work = 'Digital Craftsman'
+ 	User_Identification = 'Elijah'
+		Alias = 'Digital Craftsman'
 		title = 'Information Officer - East and Southeast Europe, Middle East and RU/CIS'
 		hobbies = [
 				'Data Science',
