@@ -2,7 +2,7 @@
  ```python
  class WhoAmI:
  	User_Identification = 'Elijah'
-		Alias = 'Computer Mechanic'
+		Alias = 'Hardware & Software Mechanic'
 		title = 'Regional Information Officer - East EMEA'
 		hobbies = [
 				'Data Science',
