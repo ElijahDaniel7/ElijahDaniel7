@@ -1,10 +1,10 @@
  ## Who am I?
  ```python
  class WhoAmI:
- 	User_Identification = 'Elijah'
-		Alias = 'Hardware & Software Mechanic'
-		title = 'Regional Information Officer - East EMEA'
-		hobbies = [
+ 	AAAA = 'Elijah'
+		CNAME = 'Hardware & Software Mechanic'
+		Title = 'Regional Information Officer - East EMEA'
+		Hobbies = [
 				'Data Science',
 				'Computer Science'
 			]
