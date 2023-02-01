@@ -2,9 +2,12 @@
  ```python
  class WhoAmI:
  	AAAA = 'Elijah'
-		CNAME = 'Hardware & Software Mechanic'
-		Title = 'Regional Information Officer - East EMEA'
-		Hobbies = [
+		CNAME = 'Merlin Ambrosius'
+		Business Title = 'Regional Information Officer - East EMEA'
+		
+
+
+Hobbies = [
 				'Data Science',
 				'Computer Science'
 			]
