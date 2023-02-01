@@ -8,16 +8,16 @@
 				'Data Science',
 				'Computer Science',
 				'Technical Architecture Design'
-				'Graphic Design'
+				'Service Management'
 			]
 	
 	def getCity():
 		return Cmbridge_UnitedKingdom()
 	
 	def Ambitions():
-		LearnJapanese()
-		CreateSkyNet()
-		FinishMyNovel()
+		LearnGerman()
+		CreateTools()
+		FinishMyRepos()
 		# Assume 10 more awesome ambitions here  ;)
 	
  ```
