@@ -22,10 +22,8 @@
 	
  ```
  ## Programming Languages
-<img src = 'https://github.com/ElijahGulab/ElijahGulab-Blob/blob/fc0f84a3a2c18add71c4942d3128dfbcff8be66f/azure-icon.png' width='30'/> <img src = 
+<img src = 'https://github.com/ElijahGulab/ElijahGulab-Blob/blob/fc0f84a3a2c18add71c4942d3128dfbcff8be66f/azure-icon.png' width='30'/>
 
-														  
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> 
  
  ## Technologies I Use
  <img src = '' width='30'/>
