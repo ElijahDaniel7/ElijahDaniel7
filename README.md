@@ -26,4 +26,3 @@
 
  
  ## Technologies I Use
- <img src = '' width='30'/>
