@@ -18,17 +18,17 @@ Here are some ideas to get you started:
  ## Who am I?
  ```python
  class WhoAmI:
- 	user = 'Haany Ali'
-		current_work = 'Writing code'
+ 	user = 'Elijah'
+		current_work = 'Digital Craftsman'
 		hobbies = [
-				'Drawing',
-				'Watching Anime',
-				'Reading Sci-Fi Novels'
-				'Being up all Night chasing that ONE BUG...'
+				'Computer Science',
+				'Enterprise Architecture',
+				'Service Management'
+				'Technical Solution Design'
 			]
 	
 	def getCity():
-		return Hyderabad_India()
+		return Cmbridge_UnitedKingdom()
 	
 	def Ambitions():
 		LearnJapanese()
