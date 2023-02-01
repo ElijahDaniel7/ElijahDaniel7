@@ -20,6 +20,7 @@ Here are some ideas to get you started:
  class WhoAmI:
  	user = 'Elijah'
 		current_work = 'Digital Craftsman'
+		title = 'Information Officer - East and Southeast Europe, Middle East and RU/CIS'
 		hobbies = [
 				'Computer Science',
 				'Enterprise Architecture',
