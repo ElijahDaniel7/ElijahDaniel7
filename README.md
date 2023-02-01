@@ -21,24 +21,24 @@
 		# Assume 10 more awesome ambitions here  ;)
 	
  ```
-## Engineer
+## Engineer Languages & Frameworks & Tools & Abilities
 <img src = 'https://github.com/ElijahGulab/ElijahGulab-Blob/blob/fc0f84a3a2c18add71c4942d3128dfbcff8be66f/raspberrypi-icon.png' width='30'/>
 <img src = 'https://github.com/ElijahGulab/ElijahGulab-Blob/blob/215655ef2cad702f2a7912747c101dac906d7b06/wordpress-icon.png' width='30'/>
 <img src = 'https://github.com/ElijahGulab/ElijahGulab-Blob/blob/215655ef2cad702f2a7912747c101dac906d7b06/objectivec-icon.png' width='30'/>
 
 
-## Associate
+## Associate Languages & Frameworks & Tools & Abilities
 <img src = 'https://github.com/ElijahGulab/ElijahGulab-Blob/blob/fc0f84a3a2c18add71c4942d3128dfbcff8be66f/azure-icon.png' width='30'/>
 <img src = 'https://github.com/ElijahGulab/ElijahGulab-Blob/blob/fc0f84a3a2c18add71c4942d3128dfbcff8be66f/homebrew-icon.png' width='30'/>
 <img src = 'https://github.com/ElijahGulab/ElijahGulab-Blob/blob/215655ef2cad702f2a7912747c101dac906d7b06/java-icon.png' width='30'/>
  
  
-## Professional
+## Professional Languages & Frameworks & Tools & Abilities
 <img src = 'https://github.com/ElijahGulab/ElijahGulab-Blob/blob/fc0f84a3a2c18add71c4942d3128dfbcff8be66f/windows-icon.png' width='30'/>
 <img src = 'https://github.com/ElijahGulab/ElijahGulab-Blob/blob/215655ef2cad702f2a7912747c101dac906d7b06/cli-icon.png' width='30'/>
  
- ## Expert
+ ## Expert Languages & Frameworks & Tools & Abilities
  
  
  
- ## Architect
+ ## Architect Languages & Frameworks & Tools & Abilities
