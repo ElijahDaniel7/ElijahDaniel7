@@ -3,11 +3,11 @@
  class WhoAmI:
  	AAAA = 'Elijah'
 		CNAME = 'Merlin Ambrosius'
-		Business Title = 'Regional Information Officer - East EMEA'
-		
+		Business Title = 'Information Officer - East and Southeast Europe, Middle East and RU/CIS'
+		Second Business Title = 'Regional Service Support - Europe, Middle East and Africa'		
 
 
-Hobbies = [
+ 	Hobbies = [
 				'Data Science',
 				'Computer Science'
 			]
