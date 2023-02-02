@@ -3,13 +3,14 @@
  class WhoAmI:
  	AAAA = 'Elijah'
 		CNAME = 'Merlin Ambrosius'
-		Business Title = 'Information Officer - East and Southeast Europe, Middle East and RU/CIS'
+		
+		Primary Business Title = 'Information Officer - East and Southeast Europe, Middle East and RU/CIS'
 		Second Business Title = 'Regional Service Support - Europe, Middle East and Africa'		
 
 
  	Hobbies = [
-				'Data Science',
-				'Computer Science'
+		'Data Science',
+		'Computer Science'
 			]
 	
 	def GetCity():
