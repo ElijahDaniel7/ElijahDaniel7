@@ -14,7 +14,7 @@
 			]
 	
 	def GetCity():
-		return Cmbridge_UnitedKingdom / Zurich_Switzerland()
+		return Cambridge_UnitedKingdom / Zurich_Switzerland()
 	
 	def Ambitions():
 		LearnLanguages()
