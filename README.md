@@ -41,11 +41,9 @@ Hobbies = [
 
 
 
-#### 26 . [Generate Snake Game From Github Contribution Grid](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
+#### 
 
-Generates a snake game from a github user contributions graph
-
-📍 For example : &nbsp;
+3nakes n Ladders : &nbsp;
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;">
 
