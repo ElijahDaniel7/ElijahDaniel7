@@ -1,6 +1,7 @@
  ## Who am I?
  ```python
  class WhoAmI:
+ def start_game():
  	AAAA = 'Elijah'
 		CNAME = 'Merlin Ambrosius'
 		
